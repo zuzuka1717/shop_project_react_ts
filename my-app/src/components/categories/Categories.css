@@ -1,0 +1,9 @@
+.Category {
+  font-size: 18px;
+  margin-top: 5px;
+}
+
+.Category:hover {
+  cursor: pointer;
+  color: rgb(129, 86, 158);
+}

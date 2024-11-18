@@ -1,0 +1,19 @@
+.Basket-wrapper {
+  background-color: rgb(255, 255, 250);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Total-section {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  font-size: 25px;
+  font-weight: 600;
+  color: rgb(51, 53, 53);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

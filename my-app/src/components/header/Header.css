@@ -1,0 +1,68 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 60px;
+  margin-right: 60px;
+  align-items: center;
+}
+
+.Basket {
+  margin: 10px;
+  font-size: 20px;
+}
+
+.Main-btn {
+  height: 30px;
+  width: 80px;
+  margin: 10px;
+  background-color: rgb(105, 150, 150);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.Basket-icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  margin-top: 3px;
+}
+
+.Main-btn:hover {
+  cursor: pointer;
+  background-color: rgb(147, 209, 205);
+}
+
+.Header-main-text {
+  font-size: 40px;
+  color: rgb(35, 90, 90);
+  margin-right: 30px;
+}
+
+.Main-section {
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+  width: 60%;
+}
+
+.Cart-section {
+  display: flex;
+  align-items: center;
+}
+
+.Input-search {
+  width: 180px;
+  padding: 5px;
+  color: rgb(180, 178, 175);
+  font-size: 20px;
+  margin: 10px 40px 10px 10px;
+}
+
+.Cart-link {
+  color: rgb(120, 93, 151);
+  padding-right: 20px;
+  font-size: 18px;
+}

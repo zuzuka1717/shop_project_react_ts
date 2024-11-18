@@ -1,0 +1,22 @@
+.Card-container {
+  background-color: rgb(255, 255, 255);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5px;
+}
+
+.Product-description {
+  max-width: 40%;
+  margin: 15px;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.Product-price {
+  font-size: 22px;
+  padding: 5px;
+  background-color: rgb(243, 233, 139);
+}
